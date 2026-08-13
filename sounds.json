@@ -1,0 +1,26 @@
+[
+  {
+    "id": "classic",
+    "name": "Chuông cổ điển",
+    "url": "https://raw.githubusercontent.com/aczaao12/dkmh-sounds/main/classic.wav",
+    "ext": "wav"
+  },
+  {
+    "id": "school",
+    "name": "Chuông trường học",
+    "url": "https://raw.githubusercontent.com/aczaao12/dkmh-sounds/main/school.wav",
+    "ext": "wav"
+  },
+  {
+    "id": "beeps",
+    "name": "Bíp báo thức",
+    "url": "https://raw.githubusercontent.com/aczaao12/dkmh-sounds/main/beeps.wav",
+    "ext": "wav"
+  },
+  {
+    "id": "gentle",
+    "name": "Chuông nhẹ nhàng",
+    "url": "https://raw.githubusercontent.com/aczaao12/dkmh-sounds/main/gentle.wav",
+    "ext": "wav"
+  }
+]
