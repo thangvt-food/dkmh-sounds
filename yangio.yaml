@@ -1,0 +1,22 @@
+slug: dkmh-sounds
+name: DKMH Sounds
+tagline: Bộ âm thanh báo thức cho ứng dụng ĐKMH
+url: https://github.com/thangvt-food/dkmh-sounds
+status: paused
+visibility: private
+description: Kho âm thanh báo thức (beeps, classic, gentle, school) kèm sounds.json để dùng trong ứng dụng ĐKMH.
+tags:
+  - âm-thanh
+  - báo-thức
+  - tài-nguyên
+category: media
+tech:
+  - json
+  - wav
+hosting: unknown
+updated: '2026-08-13'
+icon: 🔔
+auth: none
+links:
+  repo: https://github.com/thangvt-food/dkmh-sounds
+notes: Repo public chỉ chứa file âm thanh và sounds.json, không có app web.
